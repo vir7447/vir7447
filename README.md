@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"> Java Developer | Crafting Scalable Solutions with Innovation & Precision 🚀</h1>
 
 ###
 
@@ -21,7 +21,34 @@
 
 ###
 
-<p align="left">I'm Viresh Saindane from Shirdi<br><br>- 🔭 I'm Currently pursing BE IT <br>- 📚 Passionate and dedicated Java Developer</p>
+# 🚀 Passionate IT Engineering Student | Aspiring Software Developer
+
+Hi there! I'm a **4th-year IT Engineering student** at **Pravara Rural Engineering College**, eager to kickstart my career in **software development**. With a solid foundation in **Java**, I focus on building **robust and scalable applications**.
+
+## 🔹 My Expertise
+
+- **Core Java**: Object-Oriented Programming, Data Structures & Algorithms  
+- **Java Frameworks**: Spring Boot, Hibernate, Spring MVC  
+- **Database Technologies**: MySQL, MongoDB  
+- **Web Development**: HTML, CSS, Angular  
+- **Version Control**: Git & GitHub  
+
+## 🛠 Tools & Technologies
+
+I'm proficient in utilizing **development tools** to streamline my workflow:  
+
+- IntelliJ IDEA  
+- Eclipse  
+- Postman  
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on exciting projects and learning new technologies. Feel free to connect with me!  
+
+🔗 **GitHub**: [https://github.com/vir7447](#)  
+📧 **Email**: [virsaindane7447@gmail](#)  
+💼 **LinkedIn**: [https://www.linkedin.com/in/viresh-saindane7447/](#)  
+
 
 ###
 
