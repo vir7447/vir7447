@@ -23,7 +23,7 @@
 
 # 🚀 Passionate IT Engineering Student | Aspiring Software Developer
 
-Hi there! I'm a **4th-year IT Engineering student** at **Pravara Rural Engineering College**, eager to kickstart my career in **software development**. With a solid foundation in **Java**, I focus on building **robust and scalable applications**.
+Hi there! I'm a **IT Engineering student** at **Pravara Rural Engineering College**, eager to kickstart my career in **software development**. With a solid foundation in **Java**, I focus on building **robust and scalable applications**.
 
 ## 🔹 My Expertise
 
