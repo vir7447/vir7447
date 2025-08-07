@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/viresh-saidhane7447/www.linkedin.com/in/viresh-saidhane7447" target="_blank">
+  <a href="www.linkedin.com/in/viresh-saidhane7447/www.linkedin.com/in/viresh-saidhane7447/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="virsaindane7447@gmail.com" target="_blank">
@@ -47,7 +47,7 @@ I'm always open to collaborating on exciting projects and learning new technolog
 
 🔗 **GitHub**: [https://github.com/vir7447](#)  
 📧 **Email**: [virsaindane7447@gmail](#)  
-💼 **LinkedIn**: [www.linkedin.com/in/viresh-saidhane7447](#)  
+💼 **LinkedIn**: [www.linkedin.com/in/viresh-saidhane7447/](#)  
 
 
 ###
